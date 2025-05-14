@@ -5,7 +5,7 @@
             <div class="main-header-wrapper">
                 <div class="logo-image">
                     <a href="index.php">
-                        <img src="assets/img/food/menu/logo.png" alt="img">   
+                        <img src="assets/img/logo/logo.png" alt="img">   
                     </a>
                 </div>
                 <div class="main-header-items">
