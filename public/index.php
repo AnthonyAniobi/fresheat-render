@@ -208,7 +208,7 @@
                                     <div class="item-thumb">
                                         <img src="assets/img/food/fisherman-soup.jpg" alt="thumb">
                                         <div class="circle-shape"><img class="cir36"
-                                                src="assets/img/food/fisherman-soup.jpg" alt="shape"></div>
+                                                src="assets/img/food/fisherman.jpg" alt="shape"></div>
                                     </div>
                                     <div class="item-content">
                                         <a href="menu.php">
@@ -382,7 +382,7 @@
                 <div class="dishes-card-wrap style1">
                     <div class="dishes-card style1 wow fadeInUp" data-wow-delay="0.2s">
                         <div class="dishes-thumb">
-                            <img src="assets/img/food/amayase.jpg" alt="thmb">
+                            <img src="assets/img/food/amayase2.jpg" alt="thmb">
                         </div>
                         <a href="menu.php">
                             <h3>Rice and Ayamase sauce with assorted protein</h3>
@@ -463,7 +463,7 @@
                             </ul>
                         </div>
                         <div class="dishes-thumb">
-                            <img src="assets/img/food/fisherman-soup.jpg" alt="thmb">
+                            <img src="assets/img/food/fisherman.jpg" alt="thmb">
                         </div>
                         <a href="menu.php">
                             <h3>Fisherman soup with swallow</h3>

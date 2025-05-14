@@ -239,10 +239,10 @@
 
             <div class="single-menu-items">
                 <div class="details">
-                    <div class="menu-item-thumb"><img src="assets/img/food/menu/amayase.jpg" alt="thumb"></div>
+                    <div class="menu-item-thumb"><img src="assets/img/food/menu/amayase2.jpg" alt="thumb"></div>
                     <div class="menu-content">
                         <a href="menu.php">
-                            <h3>Ayamase and rice with assorted</h3>
+                            <h3>Rice and Ayamase sauce with assorted protein</h3>
                         </a>
                         <p>Spicy green pepper sauce served with white rice and assorted meats.</p>
                     </div>
