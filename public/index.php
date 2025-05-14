@@ -385,7 +385,7 @@
                             <img src="assets/img/food/amayase.jpg" alt="thmb">
                         </div>
                         <a href="menu.php">
-                            <h3>Ayamase and rice with assorted</h3>
+                            <h3>Rice and Ayamase sauce with assorted protein</h3>
                         </a>
                         <p>Price</p>
                         <h6>$21.50</h6>
