@@ -49,7 +49,7 @@
                             <div class="header-main">
                                 <div class="logo">
                                     <a href="index.php" class="header-logo">
-                                        <img src="assets/img/logo/logo.svg" alt="logo-img">
+                                        <img src="assets/img/logo/logo.png" alt="img">
                                     </a>
                                 </div>
                                 <div class="header-left">
@@ -78,7 +78,7 @@
                                         </div>
                                     </div>
                                 </div>
-                                <div class="header-right d-flex justify-content-end align-items-center">
+                                <!-- <div class="header-right d-flex justify-content-end align-items-center">
                                     <a href="#0" class="search-trigger search-icon"><i class="fal fa-search"></i></a>
 
                                     <div class="header__cart">
@@ -162,7 +162,7 @@
                                             <i class="fas fa-bars"></i>
                                         </div>
                                     </div>
-                                </div>
+                                </div> -->
                             </div>
                         </div>
                     </div>
