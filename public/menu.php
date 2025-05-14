@@ -173,9 +173,9 @@
 
     <!-- Breadcumb Section   S T A R T -->    
     <?php 
-    $mainTitle='FOOD MENU 01';
+    $mainTitle='FOOD MENU ';
     $Title='Home';
-    $Title2 = 'FOOD MENU 01';
+    $Title2 = 'FOOD MENU ';
     ?>
     <?php include './partials/page-header.php'?>
 

@@ -492,7 +492,7 @@
                     </div> -->
                 </div>
                 <div class="btn-wrapper  wow fadeInUp" data-wow-delay="0.9s">
-                    <a class="theme-btn" href="menu2.php">VIEW ALL ITEM <i
+                    <a class="theme-btn" href="menu.php">VIEW ALL ITEM <i
                             class="fa-sharp fa-regular fa-arrow-right"></i></a>
                 </div>
             </div>
