@@ -67,11 +67,11 @@
                         </div>
                         <ul class="list-area">
                             <li class="mb-2">
-                                Monday – Friday: <span class="text-theme-color2"> 8am – 4pm </span>
+                                Monday – Saturday: <span class="text-theme-color2"> 11am – 8pm </span>
                             </li>
-                            <li>
+                            <!-- <li>
                                 Saturday: <span class="text-theme-color2"> 8am – 12am </span>
-                            </li>
+                            </li> -->
                         </ul>
                         <form action="#" class="mt-4">
                             <div class="form-control">
