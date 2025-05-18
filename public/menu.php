@@ -35,7 +35,7 @@
                 </div>
                 <div class="main-header-items">
                     <div class="header-top-wrapper">
-                        <span><i class="fa-regular fa-clock"></i> 09:00 am - 06:00 pm</span>
+                        <span><i class="fa-regular fa-clock"></i>Tueusdays - Sundays (11:00 am - 08:00 pm)</span>
                         <div class="social-icon d-flex align-items-center">
                             <span>Follow Us:</span>
                             <a href="#"><i class="fab fa-facebook-f"></i></a>
@@ -239,7 +239,7 @@
 
             <div class="single-menu-items">
                 <div class="details">
-                    <div class="menu-item-thumb"><img src="assets/img/food/menu/amayase2.jpg" alt="thumb"></div>
+                    <div class="menu-item-thumb"><img src="assets/img/food/menu/amayase.jpg" alt="thumb"></div>
                     <div class="menu-content">
                         <a href="menu.php">
                             <h3>Rice and Ayamase sauce with assorted protein</h3>
@@ -298,7 +298,7 @@
                         <a href="menu.php">
                             <h3>Special fried rice with chicken or turkey/fish</h3>
                         </a>
-                        <p>Seasoned rice with veggies, paired with fried chicken, turkey or grilled fish.</p>
+                        <p>Seasoned rice with veggies, paired with fried chicken, scrambled eggs, shrimps, turkey or grilled fish.</p>
                     </div>
                 </div>
                 <h6>$19.20</h6>

@@ -67,7 +67,7 @@
                         </div>
                         <ul class="list-area">
                             <li class="mb-2">
-                                Monday – Saturday: <span class="text-theme-color2"> 11am – 8pm </span>
+                                Tueusdays - Sundays <span class="text-theme-color2"> 11am – 8pm </span>
                             </li>
                             <!-- <li>
                                 Saturday: <span class="text-theme-color2"> 8am – 12am </span>

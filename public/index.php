@@ -54,7 +54,7 @@
                                                 <div class="banner-style1">
                                                     <div class="section-title">
                                                         <h6 class="sub-title" data-animation="slideInRight"
-                                                            data-duration="2s" data-delay=".3s"> WELCOME Naija Tastee Kitchen </h6>
+                                                            data-duration="2s" data-delay=".3s"> WELCOME To Naija Tastee Kitchen </h6>
                                                         <h1 class="title" data-animation="slideInRight"
                                                             data-duration="2s" data-delay=".5s">
                                                             ASSORTED JOLLOF SPAGETTHI
@@ -102,7 +102,7 @@
                                                 <div class="banner-style1">
                                                     <div class="section-title">
                                                         <h6 class="sub-title" data-animation="slideInRight"
-                                                            data-duration="2s" data-delay=".3s"> WELCOME Naija Tastee Kitchen </h6>
+                                                            data-duration="2s" data-delay=".3s"> WELCOME To Naija Tastee Kitchen </h6>
                                                         <h1 class="title" data-animation="slideInRight"
                                                             data-duration="2s" data-delay=".5s">
                                                             Egusi Soup with Swallow
@@ -149,7 +149,7 @@
                                                 <div class="banner-style1">
                                                     <div class="section-title">
                                                         <h6 class="sub-title" data-animation="slideInRight"
-                                                            data-duration="2s" data-delay=".3s"> WELCOME Naija Tastee Kitchen </h6>
+                                                            data-duration="2s" data-delay=".3s"> WELCOME To Naija Tastee Kitchen </h6>
                                                         <h1 class="title" data-animation="slideInRight"
                                                             data-duration="2s" data-delay=".5s">
                                                             White rice and stew with Protien
@@ -207,8 +207,8 @@
                                 <div class="single-food-items">
                                     <div class="item-thumb">
                                         <img src="assets/img/food/fisherman-soup.jpg" alt="thumb">
-                                        <div class="circle-shape"><img class="cir36"
-                                                src="assets/img/food/fisherman.jpg" alt="shape"></div>
+                                        <!-- <div class="circle-shape"><img class="cir36"
+                                                src="assets/img/food/fisherman.jpg" alt="shape"></div> -->
                                     </div>
                                     <div class="item-content">
                                         <a href="menu.php">
@@ -223,8 +223,8 @@
                                 <div class="single-food-items">
                                     <div class="item-thumb">
                                         <img src="assets/img/food/vegetable-soup.jpg" alt="thumb">
-                                        <div class="circle-shape"><img class="cir36"
-                                                src="assets/img/food/vegetable-soup.jpg" alt="shape"></div>
+                                        <!-- <div class="circle-shape"><img class="cir36"
+                                                src="assets/img/food/vegetable-soup.jpg" alt="shape"></div> -->
                                     </div>
                                     <div class="item-content">
                                         <a href="menu.php">
@@ -239,8 +239,8 @@
                                 <div class="single-food-items">
                                     <div class="item-thumb">
                                         <img src="assets/img/food/plantain.jpg" alt="thumb">
-                                        <div class="circle-shape"><img class="cir36"
-                                                src="assets/img/food/plantain.jpg" alt="shape"></div>
+                                        <!-- <div class="circle-shape"><img class="cir36"
+                                                src="assets/img/food/plantain.jpg" alt="shape"></div> -->
                                     </div>
                                     <div class="item-content">
                                         <a href="menu.php">
@@ -255,8 +255,8 @@
                                 <div class="single-food-items">
                                     <div class="item-thumb">
                                         <img src="assets/img/food/goat-pepper-soup.jpg" alt="thumb">
-                                        <div class="circle-shape"><img class="cir36"
-                                                src="assets/img/food/goat-pepper-soup.jpg" alt="shape"></div>
+                                        <!-- <div class="circle-shape"><img class="cir36"
+                                                src="assets/img/food/goat-pepper-soup.jpg" alt="shape"></div> -->
                                     </div>
                                     <div class="item-content">
                                         <a href="menu.php">
@@ -599,7 +599,7 @@
                     <div class="row">
                         <div class="col-xl-6 order-2 order-xl-1">
                             <div class="cta-content">
-                                <h6 class="wow fadeamal data-wow-delay="0.5s">WELCOME NAIJA TASTEE KITCHEN</h6>
+                                <h6 class="wow fadeamal data-wow-delay="0.5s">WELCOME TO NAIJA TASTEE KITCHEN</h6>
                                 <h3 class="wow fadeInUp" data-wow-delay="0.7s">SPECIAL FOOD</h3>
                                 <p class="wow fadeInUp" data-wow-delay="0.8s" style="font-size:x-large;color:yellow">Amala ewedu and gbegiri with assorted</p>
                                 <p class="wow fadeInUp" data-wow-delay="0.8s" style="color:white;">Tuesdays / Thursdays and Saturday from 1-3pm.</p>
@@ -609,7 +609,7 @@
                         </div>
                         <div class="col-xl-6 order-1 order-xl-2">
                             <div class="cta-thumb">
-                                <img class="img-fluid float-bob-x" src="assets/img/food/lgmoi-s.jpg" alt="thumb">
+                                <img class="img-fluid" src="assets/img/food/lgmoi-s.jpg" alt="thumb">
                             </div>
                         </div>
                     </div>
@@ -636,7 +636,7 @@
                                 src="assets/img/icon/titleIcon.svg" alt="icon">
                         </div>
                         <h2 class="title wow fadeInUp" data-wow-delay="0.7s">
-                        Naija Tastee Kitchen Foods Menu
+                        Naija Tastee Kitchen Food Menu
                         </h2>
                     </div>
 
@@ -739,7 +739,7 @@
                         <a href="menu.php">
                             <h3>Special fried rice with chicken or turkey/fish</h3>
                         </a>
-                        <p>Seasoned rice with veggies, paired with fried chicken, turkey or grilled fish.</p>
+                        <p>Seasoned rice with veggies, paired with fried chicken, scrambled eggs, shrimps, turkey or grilled fish.</p>
                     </div>
                 </div>
                 <h6>$19.20</h6>
