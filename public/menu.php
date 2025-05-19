@@ -229,7 +229,7 @@
                     <div class="menu-item-thumb"><img src="assets/img/food/menu/agege.jpg" alt="thumb"></div>
                     <div class="menu-content">
                         <a href="menu.php">
-                            <h3 class="active">Jollof rice and chicken or turkey</h3>
+                            <h3 class="active">Jollof rice With chicken, fish or turkey</h3>
                         </a>
                         <p>Flavour-packed tomato rice served with juicy chicken or turkey.</p>
                     </div>

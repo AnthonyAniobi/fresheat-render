@@ -286,7 +286,7 @@
                             style="background-image: url(assets/img/food/chicken.jpg);">
                             <div class="offer-content">
                                 <h6>ON THIS WEEK</h6>
-                                <h3>PEPPERED BARBERCUE CHICKEN</h3>
+                                <h3>PEPPERED BARBECUE CHICKEN</h3>
                                 <p>limits Time Offer</p>
                                 <a href="menu.php" class="theme-btn style4">
                                     ORDER NOW <i class="fa-sharp fa-regular fa-arrow-right"></i>
@@ -300,7 +300,7 @@
                             style="background-image: url(assets/img/food/turkey.jpg);">
                             <div class="offer-content">
                                 <h6>ON THIS WEEK</h6>
-                                <h3>PEPPERED BARBERCUE TURKEY</h3>
+                                <h3>PEPPERED BARBECUE TURKEY</h3>
                                 <p>limits Time Offer</p>
                                 <a href="menu.php" class="theme-btn style5">
                                     ORDER NOW <i class="fa-sharp fa-regular fa-arrow-right"></i>
@@ -349,7 +349,7 @@
                                 <h2 class="title wow fadeInUp" data-wow-delay="0.7s">
                                     Variety of flavours from Nigerian cuisines
                                 </h2>
-                                <p class="text wow fadeInUp" data-wow-delay="0.8s">Nigerian cuisine showcases a rich tapestry of bold flavors, vibrant spices, and hearty dishes that reflect the country’s cultural diversity. From the savory richness of jollof rice and egusi soup to the comforting warmth of yam porridge and suya, Nigerian food brings people together with every bite. Rooted in tradition yet ever-evolving, these dishes tell stories of heritage, community, and celebration, offering an unforgettable taste of Nigeria’s culinary soul.</p>
+                                <p class="text wow fadeInUp" data-wow-delay="0.8s">Nigerian cuisine showcases a rich tapestry of bold flavors, vibrant spices, and hearty dishes that reflect the country’s cultural diversity. From the savory richness of jollof rice and egusi soup to the comforting warmth fisherman soup and moi moi, Nigerian food brings people together with every bite. Rooted in tradition yet ever-evolving, these dishes tell stories of heritage, community, and celebration, offering an unforgettable taste of Nigeria’s culinary soul.</p>
                                 <div class="btn-wrapper wow fadeInUp" data-wow-delay="0.9s">
                                     <a class="theme-btn" href="menu.php">ORDER NOW <i
                                             class="fa-sharp fa-regular fa-arrow-right"></i></a>
@@ -670,7 +670,7 @@
                     <div class="menu-item-thumb"><img src="assets/img/food/menu/agege.jpg" alt="thumb"></div>
                     <div class="menu-content">
                         <a href="menu.php">
-                            <h3 class="active">Jollof rice and chicken or turkey</h3>
+                            <h3 class="active">Jollof rice With chicken, fish or turkey</h3>
                         </a>
                         <p>Flavour-packed tomato rice served with juicy chicken or turkey.</p>
                     </div>

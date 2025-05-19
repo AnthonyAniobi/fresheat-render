@@ -7551,10 +7551,10 @@ input.main-search-input::placeholder {
 .single-menu-items .details .menu-content a h3 {
   color: var(--title);
   font-family: var(--title-font);
-  font-size: 24px;
+  font-size: 22px;
   font-style: normal;
   font-weight: 700;
-  line-height: 50px;
+  line-height: 30px;
   text-transform: capitalize;
   margin-bottom: 0px;
 }
@@ -7637,7 +7637,8 @@ input.main-search-input::placeholder {
 /* 25.Cta */
 .cta-wrapper.style1 {
   position: relative;
-  background-image: url(../../assets/img/food/lgmoi.jpg);
+  /* background-image: url(../../assets/img/food/lgmoi.jpg); */
+  background-color: gray;
   background-position: center;
   background-size: cover;
   background-repeat: no-repeat;
