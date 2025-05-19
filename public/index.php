@@ -33,7 +33,7 @@
                 <div class="swiper-wrapper">
                     <div class="swiper-slide">
                         <div class="banner-wrapper style1 bg-img">
-                            <div class="shape1_1 d-none d-xxl-block" data-animation="slideInLeft" data-duration="2s"
+                            <!-- <div class="shape1_1 d-none d-xxl-block" data-animation="slideInLeft" data-duration="2s"
                                 data-delay=".3s"><img src="assets/img/shape/bannerShape1_1.svg" alt="shape"></div>
                             <div class="shape1_2 d-none d-xxl-block" data-animation="slideInLeft" data-duration="2s"
                                 data-delay=".3s"><img src="assets/img/shape/bannerShape1_2.svg" alt="shape"></div>
@@ -44,7 +44,7 @@
                             <div class="shape1_5 d-none d-xxl-block" data-animation="slideInLeft" data-duration="2s"
                                 data-delay=".3s"><img src="assets/img/shape/bannerShape1_5.svg" alt="shape"></div>
                             <div class="shape1_6 d-none d-xxl-block cir36"><img
-                                    src="assets/img/shape/bannerShape1_6.svg" alt="shape"></div>
+                                    src="assets/img/shape/bannerShape1_6.svg" alt="shape"></div> -->
                             <div class="overlay"></div>
                             <div class="banner-container">
                                 <div class="container">
@@ -80,7 +80,7 @@
                     </div>
                     <div class="swiper-slide">
                         <div class="banner-wrapper style1 bg-img">
-                            <div class="shape1_1 d-none d-xxl-block" data-animation="slideInLeft" data-duration="2s"
+                            <!-- <div class="shape1_1 d-none d-xxl-block" data-animation="slideInLeft" data-duration="2s"
                                 data-delay=".3s"><img src="assets/img/shape/bannerShape1_1.svg" alt="shape"></div>
                             <div class="shape1_2 d-none d-xxl-block" data-animation="slideInLeft" data-duration="2s"
                                 data-delay=".3s"><img src="assets/img/shape/bannerShape1_2.svg" alt="shape"></div>
@@ -92,7 +92,7 @@
                             <div class="shape1_5 d-none d-xxl-block" data-animation="slideInLeft" data-duration="2s"
                                 data-delay=".3s"><img src="assets/img/shape/bannerShape1_5.svg" alt="shape"></div>
                             <div class="shape1_6 d-none d-xxl-block cir36"><img
-                                    src="assets/img/shape/bannerShape1_6.svg" alt="shape"></div>
+                                    src="assets/img/shape/bannerShape1_6.svg" alt="shape"></div> -->
                             <div class="overlay"></div>
                             <div class="banner-container">
                                 <div class="container">
@@ -128,7 +128,7 @@
                     </div>
                     <div class="swiper-slide">
                         <div class="banner-wrapper style1 bg-img">
-                            <div class="shape1_1 d-none d-xxl-block" data-animation="slideInLeft" data-duration="2s"
+                            <!-- <div class="shape1_1 d-none d-xxl-block" data-animation="slideInLeft" data-duration="2s"
                                 data-delay=".3s"><img src="assets/img/shape/bannerShape1_1.svg" alt="shape"></div>
                             <div class="shape1_2 d-none d-xxl-block" data-animation="slideInLeft" data-duration="2s"
                                 data-delay=".3s"><img src="assets/img/shape/bannerShape1_2.svg" alt="shape"></div>
@@ -139,7 +139,7 @@
                             <div class="shape1_5 d-none d-xxl-block" data-animation="slideInLeft" data-duration="2s"
                                 data-delay=".3s"><img src="assets/img/shape/bannerShape1_5.svg" alt="shape"></div>
                             <div class="shape1_6 d-none d-xxl-block cir36"><img
-                                    src="assets/img/shape/bannerShape1_6.svg" alt="shape"></div>
+                                    src="assets/img/shape/bannerShape1_6.svg" alt="shape"></div> -->
                             <div class="overlay"></div>
                             <div class="banner-container">
                                 <div class="container">
@@ -186,10 +186,10 @@
     <!-- Best Food Items Section   S T A R T -->
     <section class="best-food-items-section fix section-padding bg-color2">
         <div class="best-food-wrapper">
-            <div class="shape1 float-bob-y d-none d-xxl-block"><img src="assets/img/shape/bestFoodItemsShape1_1.png"
+            <!-- <div class="shape1 float-bob-y d-none d-xxl-block"><img src="assets/img/shape/bestFoodItemsShape1_1.png"
                     alt="shape"></div>
             <div class="shape2 float-bob-x d-none d-xxl-block"><img src="assets/img/shape/bestFoodItemsShape1_2.png"
-                    alt="shape"></div>
+                    alt="shape"></div> -->
             <div class="container">
                 <div class="title-area">
                     <div class="sub-title text-center wow fadeInUp" data-wow-delay="0.5s">
@@ -332,10 +332,10 @@
     <section class="about-us-section fix section-padding pb-0">
         <div class="about-wrapper style1">
             <div class="shape1 d-none d-xxl-block"><img src="assets/img/food/g-chick-lg.jpg" alt="shape"></div>
-            <div class="shape2 d-none d-xxl-block"><img src="assets/img/shape/aboutShape1_2.png" alt="shape"></div>
+            <!-- <div class="shape2 d-none d-xxl-block"><img src="assets/img/shape/aboutShape1_2.png" alt="shape"></div> -->
 
             <div class="shape4 d-none d-xxl-block"><img src="assets/img/food/f-rice-lg.jpg" alt="shape"></div>
-            <div class="shape5 d-none d-xxl-block"><img src="assets/img/shape/aboutShape1_5.png" alt="shape"></div>
+            <!-- <div class="shape5 d-none d-xxl-block"><img src="assets/img/shape/aboutShape1_5.png" alt="shape"></div> -->
             
             <div class="container">
                 <div class="about-us section-padding">
@@ -365,10 +365,10 @@
     <!-- Popular Dishes Section   S T A R T -->
     <section class="popular-dishes-section fix section-padding">
         <div class="popular-dishes-wrapper style1">
-            <div class="shape1 d-none d-xxl-block"><img src="assets/img/shape/popularDishesShape1_1.png" alt="shape">
+            <!-- <div class="shape1 d-none d-xxl-block"><img src="assets/img/shape/popularDishesShape1_1.png" alt="shape"> -->
             </div>
-            <div class="shape2 float-bob-y d-none d-xxl-block"><img src="assets/img/shape/popularDishesShape1_2.png"
-                    alt="shape"></div>
+            <!-- <div class="shape2 float-bob-y d-none d-xxl-block"><img src="assets/img/shape/popularDishesShape1_2.png"
+                    alt="shape"></div> -->
             <div class="container">
                 <div class="title-area">
                     <div class="sub-title text-center wow fadeInUp" data-wow-delay="0.5s">
@@ -491,10 +491,10 @@
                         <h6>$18.90</h6>
                     </div> -->
                 </div>
-                <div class="btn-wrapper  wow fadeInUp" data-wow-delay="0.9s">
+                <!-- <div class="btn-wrapper  wow fadeInUp" data-wow-delay="0.9s">
                     <a class="theme-btn" href="menu.php">VIEW ALL ITEM <i
                             class="fa-sharp fa-regular fa-arrow-right"></i></a>
-                </div>
+                </div> -->
             </div>
         </div>
 
@@ -515,9 +515,9 @@
                                             <div class="dishes-thumb">
                                                 <img class="img-fluid" src="assets/img/dishes/dishes3_1.png"
                                                     alt="thumb">
-                                                <div class="circle-shape"><img class="cir36"
+                                                <!-- <div class="circle-shape"><img class="cir36"
                                                         src="assets/img/food-items/circleShape2.png" alt="shape"></div>
-                                            </div>
+                                            </div> -->
                                         </div>
                                     </div>
                                 </div>
@@ -585,48 +585,14 @@
 
     </section>
 
-    <!-- Cta section  S T A R T -->
-    <section class="cta-section fix">
-        <div class="cta-wrapper style1  section-padding">
-            <div class="shape1 float-bob-x d-none d-xxl-block"><img src="assets/img/shape/ctaShape1_1.png" alt="shape">
-            </div>
-            <div class="shape2 float-bob-y d-none d-xxl-block"><img src="assets/img/shape/ctaShape1_2.png" alt="shape">
-            </div>
-            <div class="shape3 float-bob-y d-none d-xxl-block"><img src="assets/img/shape/ctaShape1_3.png" alt="shape">
-            </div>
-            <div class="container">
-                <div class="cta-wrap style1">
-                    <div class="row">
-                        <div class="col-xl-6 order-2 order-xl-1">
-                            <div class="cta-content">
-                                <h6 class="wow fadeamal data-wow-delay="0.5s">WELCOME TO NAIJA TASTEE KITCHEN</h6>
-                                <h3 class="wow fadeInUp" data-wow-delay="0.7s">SPECIAL FOOD</h3>
-                                <p class="wow fadeInUp" data-wow-delay="0.8s" style="font-size:x-large;color:yellow">Amala ewedu and gbegiri with assorted</p>
-                                <p class="wow fadeInUp" data-wow-delay="0.8s" style="color:white;">Tuesdays / Thursdays and Saturday from 1-3pm.</p>
-                                <a class="theme-btn wow fadeInUp" data-wow-delay="0.9s" href="menu.php">ORDER NOW <i
-                                        class="fa-sharp fa-regular fa-arrow-right"></i></a>
-                            </div>
-                        </div>
-                        <div class="col-xl-6 order-1 order-xl-2">
-                            <div class="cta-thumb">
-                                <img class="img-fluid" src="assets/img/food/lgmoi-s.jpg" alt="thumb">
-                            </div>
-                        </div>
-                    </div>
-
-                </div>
-            </div>
-        </div>
-    </section>
-
     <!-- Food Menu section  S T A R T -->
     <section class="food-menu-section fix section-padding">
-        <div class="burger-shape">
+        <!-- <div class="burger-shape">
             <img src="assets/img/shape/burger-shape.png" alt="img">
         </div>
         <div class="fry-shape">
             <img src="assets/img/shape/fry-shape.png" alt="img">
-        </div>
+        </div> -->
         <div class="food-menu-wrapper style1">
             <div class="container">
                 <div class="food-menu-tab-wrapper style-bg">
@@ -670,7 +636,7 @@
                     <div class="menu-item-thumb"><img src="assets/img/food/menu/agege.jpg" alt="thumb"></div>
                     <div class="menu-content">
                         <a href="menu.php">
-                            <h3 class="active">Jollof rice With chicken, fish or turkey</h3>
+                            <h3>Jollof rice With chicken, fish or turkey</h3>
                         </a>
                         <p>Flavour-packed tomato rice served with juicy chicken or turkey.</p>
                     </div>
@@ -982,6 +948,40 @@
             </div>
         </div>
     </section> -->
+
+        <!-- Cta section  S T A R T -->
+    <section class="cta-section fix">
+        <div class="cta-wrapper style1  section-padding">
+            <!-- <div class="shape1 float-bob-x d-none d-xxl-block"><img src="assets/img/shape/ctaShape1_1.png" alt="shape">
+            </div>
+            <div class="shape2 float-bob-y d-none d-xxl-block"><img src="assets/img/shape/ctaShape1_2.png" alt="shape">
+            </div>
+            <div class="shape3 float-bob-y d-none d-xxl-block"><img src="assets/img/shape/ctaShape1_3.png" alt="shape">
+            </div> -->
+            <div class="container">
+                <div class="cta-wrap style1">
+                    <div class="row">
+                        <div class="col-xl-6 order-2 order-xl-1">
+                            <div class="cta-content">
+                                <h6 class="wow fadeamal" data-wow-delay="0.5s">WELCOME TO NAIJA TASTEE KITCHEN</h6>
+                                <h3 class="wow fadeInUp" data-wow-delay="0.7s">SPECIAL FOOD</h3>
+                                <p class="wow fadeInUp" data-wow-delay="0.8s" style="font-size:x-large;color:yellow">Amala ewedu and gbegiri with assorted</p>
+                                <p class="wow fadeInUp" data-wow-delay="0.8s" style="color:white;">Tuesdays / Thursdays and Saturday from 1-3pm.</p>
+                                <a class="theme-btn wow fadeInUp" data-wow-delay="0.9s" href="menu.php">ORDER NOW <i
+                                        class="fa-sharp fa-regular fa-arrow-right"></i></a>
+                            </div>
+                        </div>
+                        <div class="col-xl-6 order-1 order-xl-2">
+                            <div class="cta-thumb">
+                                <img class="img-fluid" src="assets/img/food/lgmoi-s.jpg" alt="thumb">
+                            </div>
+                        </div>
+                    </div>
+
+                </div>
+            </div>
+        </div>
+    </section>
 
     <!-- Gallery Section    S T A R T -->
     <div class="gallery-section">

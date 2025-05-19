@@ -65,7 +65,7 @@
                         <div class="contact-box style1">
                             <div class="contact-icon"><img src="assets/img/icon/clock.png" alt="icon"></div>
                             <h3 class="title">Opening Hour</h3>
-                            <p>Sunday-Fri: 9 AM – 6 PM Saturday: 9 AM – 4 PM</p>
+                            <p>Tueusdays - Sundays (11:00 am - 08:00 pm)</p>
                         </div>
                     </div>
                 </div>

@@ -1,11 +1,11 @@
 <!-- Footer Section    S T A R T -->
 <footer class="footer-section bg-title fix">
     <div class="footer-widgets-wrapper">
-        <div class="shape1 float-bob-y d-none d-xxl-block"><img src="assets/img/shape/footerShape1_1.png"
+        <!-- <div class="shape1 float-bob-y d-none d-xxl-block"><img src="assets/img/shape/footerShape1_1.png"
                 alt="shape"></div>
         <div class="shape2 d-none d-xxl-block"><img src="assets/img/shape/footerShape1_2.png" alt="shape"></div>
         <div class="shape3 d-none d-xxl-block"><img src="assets/img/shape/footerShape1_3.png" alt="shape"></div>
-        <div class="shape4  d-none d-xxl-block"><img src="assets/img/shape/footerShape1_4.png" alt="shape"></div>
+        <div class="shape4  d-none d-xxl-block"><img src="assets/img/shape/footerShape1_4.png" alt="shape"></div> -->
         <div class="container">
             <div class="footer-top">
                 <div class="row gy-4">
@@ -49,7 +49,7 @@
                         </div>
                         <div class="footer-content">
                             <p>
-                                Mouth Savoring <br> African Cusines
+                                Mouth Savoring <br> Nigerian Cusines
                             </p>
                             <div class="social-icon d-flex align-items-center">
                                 <a href="#"><i class="fab fa-facebook-f"></i></a>

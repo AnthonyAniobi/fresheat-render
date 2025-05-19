@@ -7485,7 +7485,7 @@ input.main-search-input::placeholder {
 .food-menu-tab.style2 .single-menu-items .details .menu-content h3 {
   color: var(--title);
   font-family: var(--title-font);
-  font-size: 20px;
+  font-size: 17px;
   font-style: normal;
   font-weight: 700;
   line-height: 30px;
@@ -7530,7 +7530,7 @@ input.main-search-input::placeholder {
 .single-menu-items .details .menu-content h3 {
   color: var(--title);
   font-family: var(--title-font);
-  font-size: 24px;
+  font-size: 17px;
   font-style: normal;
   font-weight: 700;
   line-height: 50px;
@@ -7551,7 +7551,7 @@ input.main-search-input::placeholder {
 .single-menu-items .details .menu-content a h3 {
   color: var(--title);
   font-family: var(--title-font);
-  font-size: 22px;
+  font-size: 17px;
   font-style: normal;
   font-weight: 700;
   line-height: 30px;
@@ -7560,7 +7560,7 @@ input.main-search-input::placeholder {
 }
 @media (max-width: 1399px) {
   .single-menu-items .details .menu-content a h3 {
-    font-size: 21px;
+    font-size: 17px;
     line-height: 30px;
     margin-bottom: 0px;
   }
@@ -7638,7 +7638,7 @@ input.main-search-input::placeholder {
 .cta-wrapper.style1 {
   position: relative;
   /* background-image: url(../../assets/img/food/lgmoi.jpg); */
-  background-color: grey;
+  background-color: rgb(1, 1, 33);
   background-position: center;
   background-size: cover;
   background-repeat: no-repeat;
