@@ -49,7 +49,7 @@
                         </div>
                         <div class="footer-content">
                             <p>
-                                Mouth Savoring <br> Nigerian Cusines
+                                Mouth Savoring <br> Nigerian Cuisines
                             </p>
                             <div class="social-icon d-flex align-items-center">
                                 <a href="#"><i class="fab fa-facebook-f"></i></a>

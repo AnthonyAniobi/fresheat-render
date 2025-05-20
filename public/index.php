@@ -57,7 +57,7 @@
                                                             data-duration="2s" data-delay=".3s"> WELCOME To Naija Tastee Kitchen </h6>
                                                         <h1 class="title" data-animation="slideInRight"
                                                             data-duration="2s" data-delay=".5s">
-                                                            ASSORTED JOLLOF SPAGETTHI
+                                                            ASSORTED JOLLOF SPAGHETTI
                                                         </h1>
                                                         <a class="theme-btn" href="contact.php"
                                                             data-animation="slideInRight" data-duration="2s"
@@ -152,7 +152,7 @@
                                                             data-duration="2s" data-delay=".3s"> WELCOME To Naija Tastee Kitchen </h6>
                                                         <h1 class="title" data-animation="slideInRight"
                                                             data-duration="2s" data-delay=".5s">
-                                                            White rice and stew with Protien
+                                                            White rice and stew with Protein
                                                         </h1>
                                                         <a class="theme-btn" href="menu.php"
                                                             data-animation="slideInRight" data-duration="2s"
@@ -349,7 +349,7 @@
                                 <h2 class="title wow fadeInUp" data-wow-delay="0.7s">
                                     Variety of flavours from Nigerian cuisines
                                 </h2>
-                                <p class="text wow fadeInUp" data-wow-delay="0.8s">Nigerian cuisine showcases a rich tapestry of bold flavors, vibrant spices, and hearty dishes that reflect the country’s cultural diversity. From the savory richness of jollof rice and egusi soup to the comforting warmth fisherman soup and moi moi, Nigerian food brings people together with every bite. Rooted in tradition yet ever-evolving, these dishes tell stories of heritage, community, and celebration, offering an unforgettable taste of Nigeria’s culinary soul.</p>
+                                <p class="text wow fadeInUp" data-wow-delay="0.8s">Nigerian cuisine showcases a rich tapestry of bold flavors, vibrant spices, and hearty dishes that reflect the country’s cultural diversity. From the savory richness of jollof rice and egusi soup to the comforting warmth of fisherman soup and moi moi, Nigerian food brings people together with every bite. Rooted in tradition yet ever-evolving, these dishes tell stories of heritage, community, and celebration, offering an unforgettable taste of Nigeria’s culinary soul.</p>
                                 <div class="btn-wrapper wow fadeInUp" data-wow-delay="0.9s">
                                     <a class="theme-btn" href="menu.php">ORDER NOW <i
                                             class="fa-sharp fa-regular fa-arrow-right"></i></a>
