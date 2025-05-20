@@ -35,14 +35,14 @@
                 </div>
                 <div class="main-header-items">
                     <div class="header-top-wrapper">
-                        <span><i class="fa-regular fa-clock"></i>Tueusdays - Sundays (11:00 am - 08:00 pm)</span>
+                        <!-- <span><i class="fa-regular fa-clock"></i>Tueusdays - Sundays (11:00 am - 08:00 pm)</span>
                         <div class="social-icon d-flex align-items-center">
                             <span>Follow Us:</span>
                             <a href="#"><i class="fab fa-facebook-f"></i></a>
                             <a href="#"><i class="fab fa-twitter"></i></a>
                             <a href="#"><i class="fab fa-youtube"></i></a>
                             <a href="#"><i class="fab fa-linkedin-in"></i></a>
-                        </div>
+                        </div> -->
                     </div>
                     <div id="header-sticky" class="header-1">
                         <div class="mega-menu-wrapper">

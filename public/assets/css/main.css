@@ -2943,6 +2943,7 @@ input.main-search-input::placeholder {
 .header-top-wrapper {
   position: relative;
   display: flex;
+  height: 60px;
   align-items: center;
   justify-content: space-between;
   padding: 10px 50px;
@@ -7485,10 +7486,10 @@ input.main-search-input::placeholder {
 .food-menu-tab.style2 .single-menu-items .details .menu-content h3 {
   color: var(--title);
   font-family: var(--title-font);
-  font-size: 17px;
+  font-size: 14px;
   font-style: normal;
   font-weight: 700;
-  line-height: 30px;
+  line-height: 20px;
   text-transform: capitalize;
   margin-bottom: 5px;
 }
@@ -7524,7 +7525,7 @@ input.main-search-input::placeholder {
 }
 .single-menu-items .details {
   display: flex;
-  align-items: center;
+  align-items: start;
   gap: 16px;
 }
 .single-menu-items .details .menu-content h3 {
@@ -7532,7 +7533,7 @@ input.main-search-input::placeholder {
   font-family: var(--title-font);
   font-size: 17px;
   font-style: normal;
-  font-weight: 700;
+  font-weight: 600;
   line-height: 50px;
   text-transform: capitalize;
   margin-bottom: 0px;
@@ -7543,7 +7544,7 @@ input.main-search-input::placeholder {
 }
 @media (max-width: 1399px) {
   .single-menu-items .details .menu-content h3 {
-    font-size: 21px;
+    font-size: 19px;
     line-height: 30px;
     margin-bottom: 0px;
   }
@@ -7554,14 +7555,14 @@ input.main-search-input::placeholder {
   font-size: 17px;
   font-style: normal;
   font-weight: 700;
-  line-height: 30px;
+  line-height: 20px;
   text-transform: capitalize;
   margin-bottom: 0px;
 }
 @media (max-width: 1399px) {
   .single-menu-items .details .menu-content a h3 {
-    font-size: 17px;
-    line-height: 30px;
+    font-size: 16px;
+    line-height: 2 0px;
     margin-bottom: 0px;
   }
 }

@@ -389,24 +389,24 @@
                         </a>
                         <p>Price</p>
                         <h6>$21.50</h6>
-                        <div class="social-profile">
+                        <!-- <div class="social-profile">
                             <span class="plus-btn"> <a href="#"> <i class="fa-regular fa-heart"></i></a></span>
                             <ul>
                                 <li><a href="cart.php"><i class="fa-regular fa-basket-shopping-simple"></i></a></li>
                                 <li><a href="#" data-bs-toggle="modal" data-bs-target="#exampleModal"><i
                                             class="fa-light fa-eye"></i></a></li>
                             </ul>
-                        </div>
+                        </div> -->
                     </div>
                     <div class="dishes-card style1 wow fadeInUp" data-wow-delay="0.4s">
-                        <div class="social-profile">
+                        <!-- <div class="social-profile">
                             <span class="plus-btn"> <a href="#"> <i class="fa-regular fa-heart"></i></a></span>
                             <ul>
                                 <li><a href="cart.php"><i class="fa-regular fa-basket-shopping-simple"></i></a></li>
                                 <li><a href="#" data-bs-toggle="modal" data-bs-target="#exampleModal"><i
                                             class="fa-light fa-eye"></i></a></li>
                             </ul>
-                        </div>
+                        </div> -->
                         <div class="dishes-thumb">
                             <img src="assets/img/food/fried-r-chicken.jpg" alt="thmb">
                         </div>
@@ -417,14 +417,14 @@
                         <h6>$19.20</h6>
                     </div>
                     <div class="dishes-card style1 wow fadeInUp" data-wow-delay="0.6s">
-                        <div class="social-profile">
+                        <!-- <div class="social-profile">
                             <span class="plus-btn"> <a href="#"> <i class="fa-regular fa-heart"></i></a></span>
                             <ul>
                                 <li><a href="cart.php"><i class="fa-regular fa-basket-shopping-simple"></i></a></li>
                                 <li><a href="#" data-bs-toggle="modal" data-bs-target="#exampleModal"><i
                                             class="fa-light fa-eye"></i></a></li>
                             </ul>
-                        </div>
+                        </div> -->
                         <div class="dishes-thumb">
                             <img src="assets/img/food/ogbono.jpg" alt="thmb">
                         </div>
@@ -435,14 +435,14 @@
                         <h6>$15.90</h6>
                     </div>
                     <div class="dishes-card style1 wow fadeInUp" data-wow-delay="0.8s">
-                        <div class="social-profile">
+                        <!-- <div class="social-profile">
                             <span class="plus-btn"> <a href="#"> <i class="fa-regular fa-heart"></i></a></span>
                             <ul>
                                 <li><a href="cart.php"><i class="fa-regular fa-basket-shopping-simple"></i></a></li>
                                 <li><a href="#" data-bs-toggle="modal" data-bs-target="#exampleModal"><i
                                             class="fa-light fa-eye"></i></a></li>
                             </ul>
-                        </div>
+                        </div> -->
                         <div class="dishes-thumb">
                             <img src="assets/img/food/moi moi.jpg" alt="thmb">
                         </div>
@@ -453,7 +453,7 @@
                         <h6>$5.30</h6>
                     </div>
                     <div class="dishes-card style1 wow fadeInUp" data-wow-delay="0.9s">
-                        <div class="social-profile">
+                        <!-- <div class="social-profile">
                             <span class="plus-btn"> <a href="wishlist.php"> <i
                                         class="fa-regular fa-heart"></i></a></span>
                             <ul>
@@ -461,7 +461,7 @@
                                 <li><a href="#" data-bs-toggle="modal" data-bs-target="#exampleModal"><i
                                             class="fa-light fa-eye"></i></a></li>
                             </ul>
-                        </div>
+                        </div> -->
                         <div class="dishes-thumb">
                             <img src="assets/img/food/fisherman.jpg" alt="thmb">
                         </div>
@@ -633,6 +633,19 @@
         <div class="col-lg-6">
             <div class="single-menu-items">
                 <div class="details">
+                    <div class="menu-item-thumb"><img src="assets/img/food/menu/whiterice.jpg" alt="thumb"></div>
+                    <div class="menu-content">
+                        <a href="menu.php">
+                            <h3>White rice and stew with beef, chicken or turkey</h3>
+                        </a>
+                        <p>Classic white rice paired with flavorful tomato stew and your choice of meat.</p>
+                    </div>
+                </div>
+                <h6>$17.50</h6>
+            </div>
+
+            <div class="single-menu-items">
+                <div class="details">
                     <div class="menu-item-thumb"><img src="assets/img/food/menu/agege.jpg" alt="thumb"></div>
                     <div class="menu-content">
                         <a href="menu.php">
@@ -670,18 +683,6 @@
                 <h6>$15.90</h6>
             </div>
 
-            <div class="single-menu-items">
-                <div class="details">
-                    <div class="menu-item-thumb"><img src="assets/img/food/menu/ogbono.jpg" alt="thumb"></div>
-                    <div class="menu-content">
-                        <a href="menu.php">
-                            <h3>Ogbono soup with swallow</h3>
-                        </a>
-                        <p>Draw soup made with ground wild mango seeds and assorted meats.</p>
-                    </div>
-                </div>
-                <h6>$15.90</h6>
-            </div>
 
             <div class="single-menu-items">
                 <div class="details">
@@ -739,16 +740,17 @@
 
             <div class="single-menu-items">
                 <div class="details">
-                    <div class="menu-item-thumb"><img src="assets/img/food/menu/whiterice.jpg" alt="thumb"></div>
+                    <div class="menu-item-thumb"><img src="assets/img/food/menu/ogbono.jpg" alt="thumb"></div>
                     <div class="menu-content">
                         <a href="menu.php">
-                            <h3>White rice and stew with beef, chicken or turkey</h3>
+                            <h3>Ogbono soup with swallow</h3>
                         </a>
-                        <p>Classic white rice paired with flavorful tomato stew and your choice of meat.</p>
+                        <p>Draw soup made with ground wild mango seeds and assorted meats.</p>
                     </div>
                 </div>
-                <h6>$17.50</h6>
+                <h6>$15.90</h6>
             </div>
+
 
             <div class="single-menu-items">
                 <div class="details">
@@ -948,6 +950,175 @@
             </div>
         </div>
     </section> -->
+
+        <!-- Popular Dishes Section   S T A R T -->
+    <section class="popular-dishes-section fix section-padding">
+        <div class="popular-dishes-wrapper style1">
+            <!-- <div class="shape1 d-none d-xxl-block"><img src="assets/img/shape/popularDishesShape1_1.png" alt="shape"> -->
+            </div>
+            <!-- <div class="shape2 float-bob-y d-none d-xxl-block"><img src="assets/img/shape/popularDishesShape1_2.png"
+                    alt="shape"></div> -->
+            <div class="container">
+                <div class="title-area">
+                    <div class="sub-title text-center wow fadeInUp" data-wow-delay="0.5s">
+                        <img class="me-1" src="assets/img/icon/titleIcon.svg" alt="icon">Refreshments<img class="ms-1"
+                            src="assets/img/icon/titleIcon.svg" alt="icon">
+                    </div>
+                    <h2 class="title wow fadeInUp" data-wow-delay="0.7s">
+                        Drinks
+                    </h2>
+                </div>
+                    <div class="dishes-card style1 wow fadeInUp" data-wow-delay="0.6s">
+                        <!-- <div class="social-profile">
+                            <span class="plus-btn"> <a href="#"> <i class="fa-regular fa-heart"></i></a></span>
+                            <ul>
+                                <li><a href="cart.php"><i class="fa-regular fa-basket-shopping-simple"></i></a></li>
+                                <li><a href="#" data-bs-toggle="modal" data-bs-target="#exampleModal"><i
+                                            class="fa-light fa-eye"></i></a></li>
+                            </ul>
+                        </div> -->
+                        <div class="dishes-thumb">
+                            <img src="assets/img/food/pop.jpg" alt="thmb">
+                        </div>
+                        <a href="menu.php">
+                            <h3>Pop/Soda</h3>
+                        </a>
+                        <p>Price</p>
+                        <h6>$2.30</h6>
+                    </div>
+                    <div class="dishes-card style1 wow fadeInUp" data-wow-delay="0.8s">
+                        <!-- <div class="social-profile">
+                            <span class="plus-btn"> <a href="#"> <i class="fa-regular fa-heart"></i></a></span>
+                            <ul>
+                                <li><a href="cart.php"><i class="fa-regular fa-basket-shopping-simple"></i></a></li>
+                                <li><a href="#" data-bs-toggle="modal" data-bs-target="#exampleModal"><i
+                                            class="fa-light fa-eye"></i></a></li>
+                            </ul>
+                        </div> -->
+                        <div class="dishes-thumb">
+                            <img src="assets/img/food/water.jpg" alt="thmb">
+                        </div>
+                        <a href="menu.php">
+                            <h3>Water</h3>
+                        </a>
+                        <p>Price</p>
+                        <h6>$1.30</h6>
+                    </div>
+
+                    
+                    <!-- <div class="dishes-card style1 wow fadeInUp" data-wow-delay="0.9s">
+                        <div class="social-profile">
+                            <span class="plus-btn"> <a href="wishlist.php"> <i
+                                        class="fa-regular fa-heart"></i></a></span>
+                            <ul>
+                                <li><a href="cart.php"><i class="fa-regular fa-basket-shopping-simple"></i></a></li>
+                                <li><a href="#" data-bs-toggle="modal" data-bs-target="#exampleModal"><i
+                                            class="fa-light fa-eye"></i></a></li>
+                            </ul>
+                        </div>
+                        <div class="dishes-thumb">
+                            <img src="assets/img/food/jollof-banner.png" alt="thmb">
+                        </div>
+                        <a href="menu.php">
+                            <h3>Jollof rice and chicken or turkey </h3>
+                        </a>
+                        <p>Price</p>
+                        <h6>$18.90</h6>
+                    </div> -->
+                </div>
+                <!-- <div class="btn-wrapper  wow fadeInUp" data-wow-delay="0.9s">
+                    <a class="theme-btn" href="menu.php">VIEW ALL ITEM <i
+                            class="fa-sharp fa-regular fa-arrow-right"></i></a>
+                </div> -->
+            </div>
+        </div>
+
+<!-- Modal -->
+        <!-- <div class="modal fade" id="exampleModal" tabindex="-1" aria-hidden="true">
+            <div class="modal-dialog  modal-dialog-centered">
+                <div class="modal-content pb-3 pe-3">
+                    <div class="modal-header border-0">
+                        <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+                    </div>
+                    <div class="modal-body">
+                        <div class="container">
+                            <div class="row gy-5">
+                                <div class="col-xxl-6">
+                                    <div class="modal-thumb">
+                                        <div class="product-big-img bg-color2">
+                                            <div class="dishes-thumb">
+                                                <img class="img-fluid" src="assets/img/dishes/dishes3_1.png"
+                                                    alt="thumb"> -->
+                                                <!-- <div class="circle-shape"><img class="cir36"
+                                                        src="assets/img/food-items/circleShape2.png" alt="shape"></div>
+                                            </div> -->
+                                        <!-- </div>
+                                    </div>
+                                </div>
+                                <div class="col-xxl-6">
+                                    <div class="modal-details">
+                                        <div class="product-about">
+                                            <div class="title-wrapper">
+                                                <h2 class="product-title">Chicken Pizza</h2>
+                                                <div class="price">$69</div>
+                                            </div>
+
+                                            <div class="product-rating">
+                                                <div class="star-rating" role="img" aria-label="Rated 5.00 out of 5">
+                                                    <span style="width:100%">Rated <strong class="rating">5.00</strong>
+                                                        out of 5 based on <span class="rating">1</span> customer
+                                                        rating</span>
+                                                </div>
+                                                <a href="shop-details.php" class="woocommerce-review-link">(<span
+                                                        class="count">2</span> customer reviews)</a>
+                                            </div>
+                                            <p class="text">Aliquam hendrerit a augue insuscipit. Etiam aliquam massa
+                                                quis des mauris commodo venenatis ligula commodo leez sed blandit
+                                                convallis dignissim onec vel pellentesque neque.</p>
+
+                                            <div class="actions">
+                                                <div class="quantity">
+                                                    <p>Quantity</p>
+
+                                                    <div class="qty-wrapper">
+                                                        <button class="quantity-plus qty-btn"><i
+                                                                class="fa-solid fa-plus"></i></button>
+                                                        <input type="number" class="qty-input" step="1" min="1"
+                                                            max="100" name="quantity" value="1" title="Qty">
+                                                        <button class="quantity-minus qty-btn"><i
+                                                                class="fa-solid fa-minus"></i></button>
+                                                    </div>
+                                                </div>
+                                                <a href="cart.php" class="theme-btn">Add to Cart<i
+                                                        class="fa-regular fa-cart-shopping bg-transparent text-white"></i></a>
+                                                <a href="wishlist.php" class="theme-btn style5 border-0">ADD TO
+                                                    wishlist<i class="fa-sharp fa-solid fa-heart"></i></a>
+                                            </div>
+                                            <div class="share">
+                                                <h6>share with friends</h6>
+                                                <ul class="social-media">
+                                                    <li> <a href="https://www.facebook.com"> <i
+                                                                class="fa-brands fa-facebook-f"></i> </a> </li>
+                                                    <li> <a href="https://www.youtube.com"> <i
+                                                                class="fa-brands fa-youtube"></i> </a> </li>
+                                                    <li> <a href="https://www.x.com"> <i
+                                                                class="fa-brands fa-twitter"></i> </a> </li>
+                                                    <li> <a href="https://www.instagram.com"> <i
+                                                                class="fa-brands fa-instagram"></i> </a> </li>
+                                                </ul>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>  -->
+
+    </section>
+
 
         <!-- Cta section  S T A R T -->
     <section class="cta-section fix">

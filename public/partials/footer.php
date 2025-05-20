@@ -44,7 +44,7 @@
                     <div class="single-footer-widget">
                         <div class="widget-head">
                             <a href="index.php">
-                                <img src="assets/img/logo/logoWhite.png" alt="logo-img">
+                                <img src="assets/img/logo/logo.jpg" alt="logo-img">
                             </a>
                         </div>
                         <div class="footer-content">
